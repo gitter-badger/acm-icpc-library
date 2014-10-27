@@ -63,8 +63,5 @@ struct debugger
 } dbg;
 
 int main()
-{
-    int a=5,b=3;
-    debug(a,b);
-}
+{}
 
